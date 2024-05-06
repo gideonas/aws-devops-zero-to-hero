@@ -5,4 +5,4 @@ set -e
 docker pull  ramgid/simple-python-flask-app
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000  ramgid/simple-python-flask-app
+docker run -d -p 500:5000  ramgid/simple-python-flask-app
